@@ -12,3 +12,8 @@
    - Part 2b: Numeric and boolean inputs. Has input scaling.
    - Part 3a: Numeric inputs only. Has input scaling and parameter penalization.
    - Part 3b: Numeric and boolean inputs. Has input scaling and parameter penalization.
+- HW2 - Logistic Regression Classification and K-Folds Cross-Validation
+   - Part1 : Logistic Regression with Train-Test Split of Diabetes Dataset
+   - Part2 : Logistic Regression with K-Folds Cross-Validation of Diabetes Dataset
+   - Part3 : Logistic Regression with Train-Test Split of Cancer Dataset
+   - Part4 : Logistic Regression with K-Folds Cross-Validation of Cancer Dataset
